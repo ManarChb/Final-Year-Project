@@ -114,7 +114,7 @@ tqdm
 
 ---
 
-## 🔮 Next Steps
+##  Next Steps
 - [ ] Feature Fusion (combine MFCC + Prosodic + Spectrogram)
 - [ ] Model Training (CNN / LSTM / SVM)
 - [ ] Evaluation (Accuracy, EER, ROC Curve)
