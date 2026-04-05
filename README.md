@@ -15,7 +15,7 @@ This repository covers:
 Final-Year-Project/
 │
 ├── data/
-│   └── subset_dataset.csv         # file_path + label + split + speaker_id
+│   └── subset_dataset.csv         # file_path + label 
 │
 ├── features/
 │   ├── mfcc/
@@ -50,7 +50,7 @@ Final-Year-Project/
 
 | Feature | Description | Details | Format |
 |---------|-------------|---------|--------|
-| MFCC | Mel-Frequency Cepstral Coefficients | 13–40 coefficients per frame | .csv / .npy |
+| MFCC | Mel-Frequency Cepstral Coefficients | 13 coefficients per frame | .csv / .npy |
 | Spectrogram | Visual frequency representation over time | Mel-scale, saved as images | .png |
 | Prosodic | Low-level speech characteristics | Pitch mean/std, Energy mean, ZCR mean, Tempo | .csv |
 
