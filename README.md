@@ -19,7 +19,7 @@ Final-Year-Project/
 │
 ├── features/
 │   ├── mfcc/
-│   │   └── mfcc_features.csv      # 13-40 MFCC coefficients per file
+│   │   └── mfcc_features.csv      # 13 MFCC coefficients per file
 │   ├── spectrograms/
 │   │   ├── real/                  # .png spectrogram images
 │   │   └── fake/                  # .png spectrogram images
